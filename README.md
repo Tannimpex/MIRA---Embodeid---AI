@@ -14,7 +14,12 @@ long-term memory
 human-like presence
 
 Prototype idea:
-A simple robotic head with camera (eyes), microphone, speaker and LLM-based dialogue.
+Build a  simple robotic head with prototype with: camera (eyes), microphone, speaker, LLM-based dialogue system, basic face tracking.
+Possible first tasks:
+-camera integration
+-voice interface
+-head tracking
+-dialogue pipeline
 
 Looking for collaborators interested in:
 -robotics
@@ -23,3 +28,4 @@ Looking for collaborators interested in:
 -AI interaction models
 <img width="1024" height="1536" alt="1770916845777" src="https://github.com/user-attachments/assets/619fcac3-822b-4f1b-a7d0-d4852a05109b" />
  
+Open to collaborators interested in building the first prototype.
